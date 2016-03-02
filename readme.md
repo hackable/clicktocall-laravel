@@ -12,13 +12,13 @@ Step-by-step on how to deploy, configure and develop on this example app.
 
 Use Heroku to deploy this app immediately:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/TwilioDevEd/clicktocall-laravel)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/hackable/clicktocall-laravel)
 
 ### Getting Started 
 
 1) Grab latest source
 <pre>
-git clone git://github.com/TwilioDevEd/clicktocall-laravel.git 
+git clone git://github.com/hackable/clicktocall-laravel.git 
 </pre>
 
 2) Navigate to folder and create new Heroku Cedar app
