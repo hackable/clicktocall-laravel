@@ -6,7 +6,9 @@
 	"type": "project",
 	"require": {
 		"laravel/framework": "4.2.*",
-		"twilio/sdk": "3.*"
+		"twilio/sdk": "3.*",
+		"ext-mcrypt": "*",
+		"ext-gd": "*"
 	},
 	"autoload": {
 		"classmap": [
